@@ -1,7 +1,11 @@
 # Friendfinder
+
+++++++++++++++++++++++++++++++++++++++++++++++++
 Title: Friend Finder 
+
 Description: In this activity, I built a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
++++++++++++++++++++++++++++++++++++++++++++++++++
 View Friend Finder:
 https://pacific-mesa-14772.herokuapp.com/
 
@@ -16,6 +20,8 @@ Result:
 ![ff1result](https://user-images.githubusercontent.com/43328718/51677927-b85f6a00-1fa0-11e9-98f1-2d39f409d705.PNG)
 
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
 Technology used: Node.js, Express and Body Parser. Deployed to Heroku.
 
 
